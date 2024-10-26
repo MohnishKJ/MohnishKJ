@@ -1,10 +1,12 @@
-## 🌐 Socials:
 <div align="center">
+  <h2>🌐 Socials:</h2>
   <a href="https://linkedin.com/in/MohnishJeevanand"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 </div>
 
-# 💻 Tech Stack:
+<br><br>
+
 <div align="center">
+  <h2>💻 Tech Stack:</h2>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
@@ -38,19 +40,22 @@
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>
 </div>
 
+<br><br>
+
 ---
-# 📊 GitHub Stats:
 
 <div align="center">
+  <h2>📊 GitHub Stats:</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=MohnishKJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohnishKJ&theme=dark&hide_border=false"/><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohnishKJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </div>
 
----
+<br><br>
 
+---
 
 <h3 align="center">GitHub Activity</h3>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohnishKJ&bg_color=0d1117&color=ffffff&line=00ff88&point=ffffff&area=true&hide_border=true"> 
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohnishKJ&bg_color=0d1117&color=ffffff&line=00ff88&point=ffffff&area=true&hide_border=true">
 </div>
