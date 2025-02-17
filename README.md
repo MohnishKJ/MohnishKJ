@@ -42,20 +42,4 @@
 
 <br><br>
 
----
 
-<div align="center">
-  <h2>📊 GitHub Stats:</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=MohnishKJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/><br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohnishKJ&theme=dark&hide_border=false"/><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohnishKJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-</div>
-
-<br><br>
-
----
-
-<h3 align="center">GitHub Activity</h3>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohnishKJ&bg_color=0d1117&color=ffffff&line=00ff88&point=ffffff&area=true&hide_border=true">
-</div>
