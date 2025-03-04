@@ -43,5 +43,11 @@
 <br><br>
 
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=Mohnish_KJ" alt="LeetCode Badges" />
+# LeetCode  
+
+<p align="center">
+  <img src="assets/50daysofLCC.png" width="12%">
+  <img src="assets/DCCfebb.png" width="12%">
+</p>
+
 
