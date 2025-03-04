@@ -1,12 +1,12 @@
 <div align="center">
-  <h2>🌐 Socials:</h2>
+  <h2>🌐 Socials</h2>
   <a href="https://linkedin.com/in/MohnishJeevanand"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 </div>
 
 <br><br>
 
 <div align="center">
-  <h2>💻 Tech Stack:</h2>
+  <h2>💻 Tech Stack</h2>
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
