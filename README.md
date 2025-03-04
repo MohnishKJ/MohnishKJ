@@ -43,7 +43,9 @@
 <br><br>
 
 
-# LeetCode  
+<div align="center">
+  <h2>🏆 Leetcode Badges</h2>
+</div>
 
 <p align="center">
   <img src="assets/50daysofLCC.png" width="12%">
