@@ -43,5 +43,5 @@
 <br><br>
 
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username={Mohnish_KJ}" alt="LeetCode Badges" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Mohnish_KJ" alt="LeetCode Badges" />
 
