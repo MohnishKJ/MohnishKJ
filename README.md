@@ -2,6 +2,8 @@
   <h2>🌐 Socials</h2>
   <a href="https://linkedin.com/in/MohnishJeevanand"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/mohnishmj"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white"/>
+  <a href="https://mohnishkj.github.io"><img src="https://img.shields.io/badge/Portfolio-%234CAF50.svg" alt="Portfolio"/>
+</a>
 </a>
 
 </div>
