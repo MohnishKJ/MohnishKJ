@@ -55,6 +55,8 @@
 <p align="center">
   <img src="assets/50daysofLCC.png" width="12%">
   <img src="assets/DCCfebb.png" width="12%">
+  <img src="assets/pandasbadge.png" width="12%">
+
 </p>
 
 
