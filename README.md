@@ -2,12 +2,12 @@
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohnishkj) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohnishkj@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=githubpages&logoColor=white)](https://mohnishkj.github.io/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohnishkj)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohnishkj@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-%230077B5?style=for-the-badge&logo=About.me&logoColor=white)](https://mohnishkj.github.io/)
 
 </div>
+
 
 ---
 
