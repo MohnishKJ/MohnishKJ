@@ -68,7 +68,9 @@
 <div align="center">
 
 <h3>🏅 LeetCode Badges</h3>
-
+<a href="https://leetcode.com/u/Mohnish_KJ/">
+  <img src="https://github.com/MohnishKJ/MohnishKJ/blob/main/assets/sql.gif" width="100" />
+</a>
 <a href="https://leetcode.com/u/Mohnish_KJ/">
   <img src="https://github.com/MohnishKJ/MohnishKJ/blob/main/assets/100.gif" width="100" />
 </a>
@@ -83,9 +85,6 @@
 </a>
 <a href="https://leetcode.com/u/Mohnish_KJ/">
   <img src="https://github.com/MohnishKJ/MohnishKJ/blob/main/assets/feb.gif" width="100" />
-</a>
-<a href="https://leetcode.com/u/Mohnish_KJ/">
-  <img src="https://github.com/MohnishKJ/MohnishKJ/blob/main/assets/sql.gif" width="100" />
 </a>
 <a href="https://leetcode.com/u/Mohnish_KJ/">
   <img src="https://github.com/MohnishKJ/MohnishKJ/blob/main/assets/pandas.gif" width="100" />
