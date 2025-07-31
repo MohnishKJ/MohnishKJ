@@ -87,6 +87,9 @@
   <img src="https://github.com/MohnishKJ/MohnishKJ/blob/main/assets/feb.gif" width="100" />
 </a>
 <a href="https://leetcode.com/u/Mohnish_KJ/">
+  <img src="https://github.com/MohnishKJ/MohnishKJ/blob/main/assets/DCCjuly.gif" width="100" />
+</a>
+<a href="https://leetcode.com/u/Mohnish_KJ/">
   <img src="https://github.com/MohnishKJ/MohnishKJ/blob/main/assets/pandas.gif" width="100" />
 </a>
 
