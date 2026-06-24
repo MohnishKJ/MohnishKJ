@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&pause=1000&color=2563EB&center=true&vCenter=true&repeat=false&width=600&lines=MOHNISH+KJ" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&pause=1000&color=2563EB&center=true&vCenter=true&repeat=false&width=600&lines=MOHNISH+K J" />
 
 ### Software Engineering • Machine Learning • Artificial Intelligence
 
