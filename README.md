@@ -1,10 +1,37 @@
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&pause=1000&color=2563EB&center=true&vCenter=true&repeat=false&width=600&lines=MOHNISH+KJ" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&pause=1000&color=2563EB&center=true&vCenter=true&repeat=false&width=700&lines=MOHNISH+KJ" alt="Mohnish KJ" />
 
 ### Software Engineering • Machine Learning • Artificial Intelligence
 
+<br>
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohnishkj)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohnishkj@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohnishkj.github.io)
+
 </div>
+
+---
+<div align="center">
+
+## 🏆 HIGHLIGHTS
+
+### 📜 Published Patent Applications in Computer Vision-Based Intelligent Monitoring & Detection Systems
+
+### 🥈 Runner-Up - M!NT Hackathon 2024, IIT Madras
+
+### 🏅 Finalist - Smart India Hackathon 2024 
+
+### 🚀 Finalist in Multiple National Hackathons Focused on AI, Sustainability & Healthcare
+
+</div>
+
+
+
 
 ---
 
@@ -65,6 +92,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+
 
 </div>
 
